@@ -74,8 +74,8 @@ nav a:hover {
 }
 
 button {
-    color: black;
-    background-color: white;
+    color: rgb(235, 177, 177);
+    background-color: rgb(99, 18, 230);
     border: none;
     width: 100px;
     height: 30px;
